@@ -1,6 +1,7 @@
 # Intro-to-Computer-Programming
-All assignments from my Intro to Computer Programming Course
+Assignments from my Intro to Computer Programming Course
+
+Fall of 2015, freshman
 
 Language: Python
 
-Fall of 2015, freshman
